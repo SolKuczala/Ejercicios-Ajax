@@ -1,0 +1,28 @@
+.contenedor-botones-usuario {
+	
+}
+
+.contenedor-lista-posts {
+	
+}
+
+.boton-usuario {
+    box-shadow:inset 0px 39px 0px -24px #e67a73;
+	background:linear-gradient(to bottom, #e4685d 5%, #eb675e 100%);
+	background-color:#e4685d;
+	border-radius:4px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:8px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
+}
+
+.post {
+
+}
+
